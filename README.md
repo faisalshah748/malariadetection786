@@ -1,1 +1,1 @@
-# malariadetection786
+# Malaria-Detection
